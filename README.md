@@ -28,8 +28,8 @@ I’m looking to collaborate on:
 
 ### 📫 Reach Me
 - Email: **le3t6@mail.uc.edu**  
-- LinkedIn: [[My LinkedIn](https://www.linkedin.com/in/tamle06/)]  
-- Portfolio: [[My personal website](https://xiuxiu06.github.io/my-website/)]  
+- LinkedIn: (https://www.linkedin.com/in/tamle06/)  
+- Portfolio: (https://xiuxiu06.github.io/my-website/)
 
 ---
 
