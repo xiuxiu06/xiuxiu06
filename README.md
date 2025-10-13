@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Tam Le
+My Website: (https://xiuxiu06.github.io/my-website/)
 
 💻 **Aspiring Software Engineer | AI Enthusiast | Creative Technologist**  
 
@@ -34,7 +35,7 @@ I’m looking to collaborate on:
 ---
 
 ### ⚡ Fun Facts
-- When I’m not coding, I’m creating art & design! 🎨 Check out my work on [Behance](your-behance-link).  
+- When I’m not coding, I’m creating art & design! 🎨 Check out my work on [Behance](https://www.behance.net/TamLe06).  
 - I believe debugging is 90% of programming… the other 10% is googling the error.  
 - My IDE knows me better than my Netflix account.  
 
