@@ -1,9 +1,8 @@
 <div align="center">
 
 # 👋 Hi, I’m Tam!
-Visit my website: https://tamle.site
 
-**Aspiring Software Engineer | AI Enthusiast | Creative Technologist**
+**Computer Science student at University of Cincinnati**
 
 </div>
 
