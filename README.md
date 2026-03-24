@@ -1,7 +1,6 @@
 <div align="center">
 
 # 👋 Hi, I’m Tam!
-
 Visit my website: https://tamle.site
 
 **Aspiring Software Engineer | AI Enthusiast | Creative Technologist**
@@ -10,24 +9,34 @@ Visit my website: https://tamle.site
 
 ---
 
-### A little bit about me...
+#### 🧠 A little bit about me
 
-- 💻 I like building things with code, lately a lot around AI and full stack  
-- 🧠 Learning how machine learning actually works (not just using it)  
-- 🛠️ Most of my projects sit between software, data, and experimenting  
-- 🎯 Just building and figuring things out along the way  
+- I like building things with code, lately a lot around AI and full stack  
+- Learning how machine learning actually works (not just using it)  
+- Most of my projects sit between software, data, and experimenting  
+- Just building and figuring things out along the way...  
 
----
 
-### 📫 Reach Me
+#### 📫 Reach Me
 
 - Email: le3t6@mail.uc.edu
 - LinkedIn: https://www.linkedin.com/in/tamle06/ 
 - Portfolio: https://tamle.site
 
----
+#### 🎨 Fun Facts
 
-### 🎨 Fun Facts
+<table>
+<tr>
+<td width="100%">
 
-- I also enjoy art and design - check out my work on [Behance](https://www.behance.net/TamLe06)  
-- My IDE probably knows me better than my Netflix account 😄
+- I also enjoy art and design - check out my work on <a href="https://www.behance.net/TamLe06">Behance</a>  
+- My IDE probably knows me better than my Netflix account 😄  
+
+</td>
+<td align="center">
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmd6djl6cjAyM3V1b3NodTBpeGs4OHdiczl2NWwyaTk3aDRldWNlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QtZSl6mcqfmvCBI2cb/giphy.gif" width="100"/>
+
+</td>
+</tr>
+</table>
