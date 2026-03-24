@@ -1,44 +1,33 @@
-# 👋 Hi, I’m Tam Le
-My Website: (https://tamle.site/)
+<div align="center">
 
-💻 **Aspiring Software Engineer | AI Enthusiast | Creative Technologist**  
+# 👋 Hi, I’m Tam!
 
----
+Visit my website: https://tamle.site
 
-### 👀 About Me
-- Passionate about **software engineering, AI/ML, and data-driven applications**  
-- Interested in building impactful tools that combine **technology + creativity**  
-- Strong foundation in **Python, C++, JavaScript, HTML, CSS**, and expanding into **AI frameworks**  
+**Aspiring Software Engineer | AI Enthusiast | Creative Technologist**
+
+</div>
 
 ---
 
-### 🌱 Currently Learning
-- Machine Learning & Deep Learning (CNNs, NLP, data pipelines)  
-- Full-stack development (React, Node.js, databases)  
-- Software engineering practices (system design, testing, deployment)  
+### A little bit about me...
 
----
-
-### 💞️ Collaboration
-I’m looking to collaborate on:  
-- 🤖 AI-powered applications  
-- 🌐 Web & software development projects  
-- 📊 Data science & visualization tools  
+- 💻 I like building things with code, lately a lot around AI and full stack  
+- 🧠 Learning how machine learning actually works (not just using it)  
+- 🛠️ Most of my projects sit between software, data, and experimenting  
+- 🎯 Just building and figuring things out along the way  
 
 ---
 
 ### 📫 Reach Me
-- Email: **le3t6@mail.uc.edu**  
-- LinkedIn: (https://www.linkedin.com/in/tamle06/)  
-- Portfolio: (https://xiuxiu06.github.io/my-website/)
+
+- Email: le3t6@mail.uc.edu
+- LinkedIn: https://www.linkedin.com/in/tamle06/ 
+- Portfolio: https://tamle.site
 
 ---
 
-### ⚡ Fun Facts
-- When I’m not coding, I’m creating art & design! 🎨 Check out my work on [Behance](https://www.behance.net/TamLe06).  
-- I believe debugging is 90% of programming… the other 10% is googling the error.  
-- My IDE knows me better than my Netflix account.  
+### 🎨 Fun Facts
 
----
-
-✨ *Always excited to learn, build, and share projects that make a difference!*  
+- I also enjoy art and design - check out my work on [Behance](https://www.behance.net/TamLe06)  
+- My IDE probably knows me better than my Netflix account 😄
